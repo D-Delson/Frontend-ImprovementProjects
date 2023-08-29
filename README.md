@@ -3,4 +3,9 @@ Dedicated to enhancing cloned frontend projects. This repo showcases three reima
 
 # Niceadmin
 
+Technologies used:
+- HTML
+- CSS
+- Bootstrap 5
+
 ![niceadmiin](https://github.com/D-Delson/Frontend-ImprovementProjects/assets/93865465/0c961aea-eb46-4171-93dc-848d84c7c0d2)
